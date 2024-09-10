@@ -1,0 +1,2 @@
+Name,Age,Sex,CP,Trestbps,Chol,Fbs,Restecg,Thalach,Exang,Oldpeak,Slope,Ca,Thal,Prediction
+Amir Hossein,1.0,2.0,1.0,12.0,90.0,1.0,12.0,11.0,1.0,22.0,67.0,33.0,2.0,1

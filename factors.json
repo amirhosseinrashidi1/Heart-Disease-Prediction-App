@@ -1,0 +1,88 @@
+{
+    "factors": [
+      {
+        "name": "Patient Name",
+        "type": "text"
+      },
+      {
+        "name": "Age",
+        "type": "number"
+      },
+      {
+        "name": "Sex",
+        "type": "radio",
+        "options": {
+          "Female (0)": 0,
+          "Male (1)": 1
+        }
+      },
+      {
+        "name": "Chest Pain Type (CP)",
+        "type": "radio",
+        "options": {
+          "Type 0": 0,
+          "Type 1": 1,
+          "Type 2": 2,
+          "Type 3": 3
+        }
+      },
+      {
+        "name": "Resting Blood Pressure (Trestbps)",
+        "type": "number"
+      },
+      {
+        "name": "Serum Cholesterol (Chol)",
+        "type": "number"
+      },
+      {
+        "name": "Fasting Blood Sugar (Fbs)",
+        "type": "radio",
+        "options": {
+          "Less than 120 mg/dl (0)": 0,
+          "More than 120 mg/dl (1)": 1
+        }
+      },
+      {
+        "name": "Resting Electrocardiogram Results (Restecg)",
+        "type": "radio",
+        "options": {
+          "Normal (0)": 0,
+          "Abnormality (1)": 1
+        }
+      },
+      {
+        "name": "Maximum Heart Rate (Thalach)",
+        "type": "number"
+      },
+      {
+        "name": "Exercise Induced Angina (Exang)",
+        "type": "radio",
+        "options": {
+          "No (0)": 0,
+          "Yes (1)": 1
+        }
+      },
+      {
+        "name": "Oldpeak",
+        "type": "number"
+      },
+      {
+        "name": "Slope of the ST Segment (Slope)",
+        "type": "radio",
+        "options": {
+          "Slope 0": 0,
+          "Slope 1": 1,
+          "Slope 2": 2
+        }
+      },
+      {
+        "name": "Number of Major Vessels Colored by Fluoroscopy (Ca)",
+        "type": "number"
+      },
+      {
+        "name": "Thalassemia (Thal)",
+        "type": "number"
+      }
+    ]
+  }
+  
